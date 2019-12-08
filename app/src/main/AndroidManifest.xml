@@ -73,6 +73,10 @@
 
         <activity android:name=".ui.menu.MenuStockOutActivity"
                   android:screenOrientation="portrait"/>
-
+        <service
+                android:name=".service.AlertService"
+                android:enabled="true"
+                android:exported="false"
+                android:process=":white" />
     </application>
 </manifest>
