@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical">
+
+    <com.leinyo.android.appbar.AppBar
+        android:id="@+id/toolbar"
+        android:background="@android:color/white"
+        android:layout_width="match_parent"
+        app:left_back="@drawable/ic_rollback"
+        android:layout_height="?attr/actionBarSize"/>
+
+    <View
+        android:id="@+id/split_line"
+        style="@style/SplitLineStyle"/>
+
+</LinearLayout>

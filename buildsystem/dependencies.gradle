@@ -1,0 +1,31 @@
+ext {
+    compileSdkVersion = 27
+    buildToolsVersion = "28.0.3"
+    minSdkVersion = 19
+    targetSdkVersion = 27
+
+    // App dependencies
+    kotlinLibraryVersion = '1.1.51'
+    multidexLibraryVersion = '1.0.2'
+    supportLibraryVersion = '27.1.0'
+    eventbusLibraryVersion = '3.0.0'
+    eventbusProcessorLibraryVersion = '3.0.1'
+    butterknifeLibraryVersion = '9.0.0-SNAPSHOT'
+    httpClientLibrary = '1.1.6'
+    jpushLibraryVersion = '3.0.1'
+    jpushCoreVersion = '1.1.0'
+    bugtagLibraryVersion = '2.3.1'
+    leakcanaryLibraryVersion = '1.5.1'
+    timberLibraryVersion = '4.5.1'
+    glideLibraryVersion = '4.4.0'
+    retrofitLibraryVersion = '2.1.0'
+    fastjsonLibraryVersion = '1.2.23'
+    wechatLibraryVersion = '1.0.2'
+    zxingLibraryVersion = '3.3.0'
+    glideOkhttpLibraryVersion = '1.5.0@aar'
+    commonsLangVersion = '3.6'
+    orgTestVersion = '6.9.6'
+    ampMapLibraryVersion = "5.2.0"
+    appbarLibraryVersion = "1.0.1"
+    aceLibraryVersion = "2.0.1@aar"
+}

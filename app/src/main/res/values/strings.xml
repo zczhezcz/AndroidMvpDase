@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="menu_main">主菜单</string>
+    <string name="menu_stock_in">入库</string>
+    <string name="menu_stock_out">出库</string>
+    <string name="menu_stock_out_material">领料出库</string>
+    <string name="menu_stock_in_receive">收货入库</string>
+
+    <string name="stock_in_receive_title">收货入库</string>
+    <string name="stock_out_material_list_title">领料出库-加工单列表</string>
+
+</resources>

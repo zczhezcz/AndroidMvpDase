@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_46"
+            android:background="@android:color/background_light"
+            android:orientation="vertical">
+
+        <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_36"
+                android:background="@android:color/background_light"
+                android:hint="请输入用户名"
+                android:textSize="@dimen/sp_16"/>
+
+        <EditText
+                android:id="@+id/et_password"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_36"
+                android:background="@android:color/background_light"
+                android:hint="请输入密码"
+                android:textSize="@dimen/sp_16"/>
+    </LinearLayout>
+
+    <Button
+            android:id="@+id/bt_login"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_34"
+            android:layout_marginLeft="@dimen/dp_14"
+            android:layout_marginRight="@dimen/dp_14"
+            android:layout_marginTop="@dimen/dp_40"
+            android:background="@color/button_color"
+            android:text="登录"
+            android:textColor="@android:color/background_light"
+            android:textSize="@dimen/sp_18"/>
+
+</LinearLayout>

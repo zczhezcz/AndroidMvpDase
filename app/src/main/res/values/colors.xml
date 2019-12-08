@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 系统基础色调 -->
+    <color name="colorTheme">#204560</color>
+    <color name="colorThemeBackground_0">#f5f5f5</color>
+    <color name="colorThemeBackground_1">#fdfdfe</color>
+    <color name="colorThemeBackLine">#ebebeb</color>
+    
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorAccent">#D7D7D7</color>
+    <color name="colorViewText00">#000000</color>
+    <color name="colorViewText01">#bebebe</color>
+    <color name="colorViewText02">#FFFFFF</color>
+    <color name="colorButtonText">#838383</color>
+    <color name="background_primary">#f7f7f7</color>
+
+    <!-- QRCode scanner color begin -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#B0000000</color>
+    <color name="viewfinder_frame">#90FFFFFF</color>
+    <color name="result_point_color">#C0FFFF00</color>
+    <color name="laser_color">#E45252</color>
+    <color name="corner_color">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3399ff</color>
+    <color name="colorPrimary">#5cadff</color>
+    <color name="navigationBarColor">#3399ff</color>
+    <color name="colorPrimaryDarkTrans">#00cc66</color>
+    <!-- QRCode scanner color end -->
+
+    <color name="button_color">#204560</color>
+
+    <!--基础色-->
+    <color name="colorDefault">#002A39</color>
+    <!--点击色-->
+    <color name="colorPressed">#90002A39</color>
+    <!--错误提示色-->
+    <color name="colorError">#FF3300</color>
+
+    <!--数据库查询出文字显示色-->
+    <color name="black">#ff000000</color>
+
+    <!--背景及其他色-->
+    <color name="white">#ffffffff</color>
+    <color name="gray_666666">#ff666666</color>
+    <color name="background_gray">#ebebeb</color>
+    <color name="background_line_color">#dddddd</color>
+    <color name="background_points">#C0BCBC</color>
+    <color name="background_white">#ffffff</color>
+
+
+
+    <!--可操作部件颜色，如输入框，下拉框-->
+    <color name="text_yellow">#FF6D00</color>
+    <color name="state_selected">#80FF6D00</color>
+    <color name="color_common_background">#f7f7f7</color>
+    <color name="color_appbar_split_line">#dedede</color>
+    <color name="color_recycleview_line">#f0f0f0</color>
+
+    <color name="color_common_text">#333333</color>
+    <!--强调色-->
+    <color name="text_red">#dc143c</color>
+
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+
+    <color name="carno_first_word">#00698c</color>
+    <color name="sorting_confirm_hint">#00b50f</color>
+</resources>
