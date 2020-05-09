@@ -64,7 +64,7 @@
                   android:screenOrientation="portrait"
                   android:windowSoftInputMode="adjustPan|stateHidden"/>
 
-        <activity android:name=".ui.activity.StockOutMaterialWorkActivity"
+        <activity android:name=".ui.activity.MultipleSelectRecycleView.MultipleSelectRecycleViewActivity"
                   android:screenOrientation="portrait"
                   android:windowSoftInputMode="adjustPan|stateHidden"/>
 

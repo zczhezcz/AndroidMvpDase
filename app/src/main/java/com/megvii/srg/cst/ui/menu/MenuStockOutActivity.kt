@@ -3,7 +3,7 @@ package com.megvii.srg.cst.ui.menu
 import com.leinyo.android.appbar.AppBar
 import com.megvii.srg.cst.R
 import com.megvii.srg.cst.ui.menu.baseMenu.MenuItem
-import com.megvii.srg.cst.ui.activity.StockOutMaterialWorkActivity
+import com.megvii.srg.cst.ui.activity.MultipleSelectRecycleView.MultipleSelectRecycleViewActivity
 import com.megvii.srg.cst.ui.menu.baseMenu.BaseMenuActivity
 
 
@@ -17,7 +17,7 @@ class MenuStockOutActivity: BaseMenuActivity(){
     override fun registerMenu() {
         var item = MenuItem(
             R.drawable.ic_stock_out_material,getString(R.string.menu_stock_out_material),
-                "2.1", StockOutMaterialWorkActivity::class.java)
+                "2.1", MultipleSelectRecycleViewActivity::class.java)
         mMenuList!!.add(item)
     }
 

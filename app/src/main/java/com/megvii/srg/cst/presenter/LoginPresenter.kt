@@ -5,7 +5,7 @@ import com.leinyo.httpclient.retrofit.NetworkStringResponse
 import com.megvii.srg.cst.base.BasePresenter
 import com.megvii.srg.cst.contract.LoginContract
 import com.megvii.srg.cst.core.net.httpConstants.LoginConstants
-import com.megvii.srg.cst.login.ResponseLoginEntity
+import com.megvii.srg.cst.entity.ResponseLoginEntity
 import com.megvii.srg.cst.repository.LoginRepository
 import com.megvii.srg.cst.utils.ToastUtils
 import com.megvii.srg.cst.utils.ViewUtils

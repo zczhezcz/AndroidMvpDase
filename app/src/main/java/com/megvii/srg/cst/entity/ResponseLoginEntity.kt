@@ -1,4 +1,4 @@
-package com.megvii.srg.cst.login
+package com.megvii.srg.cst.entity
 
 import com.process.factory.base.BaseResponse
 

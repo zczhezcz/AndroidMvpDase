@@ -5,4 +5,20 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <CheckedTextView
+            android:id="@+id/ctv_check_all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:drawableLeft="@drawable/selector_radio_button_img"
+            android:drawablePadding="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:text="全选"
+            android:textSize="@dimen/sp_16" />
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_outbound_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
 </LinearLayout>

@@ -3,7 +3,7 @@ package com.megvii.srg.cst.ui.activity
 import android.content.Intent
 import com.megvii.srg.cst.R
 import com.megvii.srg.cst.contract.LoginContract
-import com.megvii.srg.cst.login.ResponseLoginEntity
+import com.megvii.srg.cst.entity.ResponseLoginEntity
 import com.megvii.srg.cst.presenter.LoginPresenter
 import com.megvii.srg.cst.service.AlertService
 import com.megvii.srg.cst.utils.ToastUtils
